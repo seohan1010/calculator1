@@ -10,6 +10,7 @@ background-color: purple;
 
 }
 
+/* for input */
 
 .top_blank{
     width:450px;
@@ -18,5 +19,6 @@ background-color: purple;
     border-radius:5px;
     margin:auto;
     margin-top:20px;
+    font-size: 40px;
     
 }
