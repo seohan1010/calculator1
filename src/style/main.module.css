@@ -1,7 +1,7 @@
 .main{
 
 width:500px;
-height:600px;
+height:700px;
 border:1px solid black;
 border-radius:5px;
 margin:auto;
@@ -22,3 +22,51 @@ background-color: purple;
     font-size: 40px;
     
 }
+
+.btn{
+text-align: center;
+margin-right:2px;
+margin-left:2px;
+height:80px;
+width:100px;
+
+}
+
+.first_row{
+    width:450px;
+    height:100px;
+
+
+}
+
+
+.second_row{
+    width:450px;
+    height:100px;
+
+
+}
+
+
+.third_row{
+    width:450px;
+    height:100px;
+
+
+}
+
+
+.fourth_row{
+    width:450px;
+    height:100px;
+
+
+}
+
+.fifth_row{
+    width:450px;
+    height:100px;
+
+
+}
+
